@@ -22,21 +22,21 @@ Step 5: run `yarn run seed` command to seed the database with the data<br>
 
 <!-- frontend -->
 ## setting up react app
-go into the frontend folder/directory
+go into the frontend folder/directory<br>
 Step 1: run `yarn` command to install all the dependencies there<br>
 Step 2: in the .env file place your Google Maps API key to use the project<br>
 
 
 <!-- run project -->
 ## To run the project:
-to run both front end and backend simultaneously from one terminal 
-for concurrently ->
+> to run both front end and backend simultaneously from one terminal 
+for concurrently -><br>
 Step 1: move into the backend folder/directory and <br>
 Step 2: run `yarn start` command to run the project<br>
 
 
 
-If You want to run the project on different terminals you can do so by using commands:
+> If You want to run the project on different terminals you can do so by using commands:
 for react app -> 
 `yarn run dev`
 for express server -> 
