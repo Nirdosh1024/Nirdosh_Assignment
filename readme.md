@@ -1,5 +1,5 @@
 ---
-title: Digital Amigos Assignment
+title: Postgres DB Operations
 author: Nirdosh Chauhan
 date: 10-09-2023
 ---
